@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Day-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBA8CA-3416-4F8A-81A6-B5DE52CDF0DC}|Day-5\\Day-5.csproj|c:\\users\\dell\\source\\repos\\day-5\\day-5\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FBA8CA-3416-4F8A-81A6-B5DE52CDF0DC}|Day-5\\Day-5.csproj|solutionrelative:day-5\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBA8CA-3416-4F8A-81A6-B5DE52CDF0DC}|Day-5\\Day-5.csproj|c:\\users\\dell\\source\\repos\\day-5\\day-5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FBA8CA-3416-4F8A-81A6-B5DE52CDF0DC}|Day-5\\Day-5.csproj|solutionrelative:day-5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FBA8CA-3416-4F8A-81A6-B5DE52CDF0DC}|Day-5\\Day-5.csproj|c:\\users\\dell\\source\\repos\\day-5\\day-5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8FBA8CA-3416-4F8A-81A6-B5DE52CDF0DC}|Day-5\\Day-5.csproj|solutionrelative:day-5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Day-5\\Day-5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Day-5\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Day-5\\Day-5\\Models\\User.cs",
+              "RelativeToolTip": "Day-5\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:00:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Day-5\\Day-5\\appsettings.json",
+              "RelativeDocumentMoniker": "Day-5\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Day-5\\Day-5\\appsettings.json",
+              "RelativeToolTip": "Day-5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T09:59:42.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Day-5\\Day-5\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Day-5\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Day-5\\Day-5\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Day-5\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:58:37.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
